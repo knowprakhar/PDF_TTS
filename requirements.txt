@@ -1,0 +1,5 @@
+pdfplumber
+pyttsx3
+pdf2image
+pytesseract
+pillow
